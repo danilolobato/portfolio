@@ -1,4 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="12" fill="#000000" />
-  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">DL.</text>
+  
+  <circle cx="32" cy="32" r="32" fill="#000000" />
+  
+  
+  <path fill="#ffffff" d="M13 21h8.5c5.5 0 9.5 3.8 9.5 11s-4 11-9.5 11H13V21zm5.5 4.5v13h3c2.8 0 4-2 4-6.5s-1.2-6.5-4-6.5h-3z" />
+  
+  
+  <path fill="#ffffff" d="M34 21h5.5v17.5h8V43H34V21z" />
+  
+  
+  <circle cx="51" cy="40" r="2.8" fill="#ffffff" />
 </svg>
